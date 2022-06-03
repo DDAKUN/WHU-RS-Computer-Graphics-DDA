@@ -1,0 +1,74 @@
+﻿  pch.cpp
+  ClassView.cpp
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDA.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  CObject3D.cpp
+  ComputerGraphicDDA.cpp
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDA.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ComputerGraphicDDADoc.cpp
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDA.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(84,7): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(84,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(149,7): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(149,23): warning C4244: “=”: 从“float”转换到“int”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(154,23): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(169,11): warning C4244: “初始化”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(175,19): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(353,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(354,21): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(356,36): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(357,36): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(402,38): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(403,38): warning C4244: “=”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(419,16): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(420,16): warning C4244: “=”: 从“float”转换到“LONG”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(502,48): warning C4244: “=”: 从“int”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(827,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(828,11): warning C4244: “初始化”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(829,22): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(829,18): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(832,38): warning C4244: “+=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(879,10): warning C4838: 从“LONG”转换到“double”需要收缩转换
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(879,17): warning C4838: 从“LONG”转换到“double”需要收缩转换
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(880,14): warning C4838: 从“LONG”转换到“double”需要收缩转换
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(880,25): warning C4838: 从“LONG”转换到“double”需要收缩转换
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(881,17): warning C4838: 从“LONG”转换到“double”需要收缩转换
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(881,37): warning C4838: 从“LONG”转换到“double”需要收缩转换
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(882,17): warning C4838: 从“LONG”转换到“double”需要收缩转换
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(882,41): warning C4838: 从“LONG”转换到“double”需要收缩转换
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(913,9): warning C4101: “y”: 未引用的局部变量
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(913,6): warning C4101: “x”: 未引用的局部变量
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(913,28): warning C4101: “flag”: 未引用的局部变量
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(1026,11): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(1026,29): warning C4244: “初始化”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(1027,22): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(1028,22): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(1029,24): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(1030,24): warning C4244: “参数”: 从“LONG”转换到“float”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(1031,42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(1031,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(1032,42): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDADoc.cpp(1032,24): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+  ComputerGraphicDDAView.cpp
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDA.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDAView.cpp(412,50): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDAView.cpp(413,51): warning C4244: “=”: 从“double”转换到“LONG”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDAView.cpp(607,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDAView.cpp(613,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDAView.cpp(1017,19): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDAView.cpp(1028,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDAView.cpp(1031,17): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDAView.cpp(1059,26): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDAView.cpp(1059,22): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  CReality.cpp
+  FileView.cpp
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDA.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  MainFrm.cpp
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDA.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  OutputWnd.cpp
+  PropertiesWnd.cpp
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDA.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  SetCharDlg.cpp
+C:\Users\DDA\Desktop\2020302131332\ComputerGraphicDDA\ComputerGraphicDDA.h(1,1): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+  ViewTree.cpp
+  正在生成代码...
+  ComputerGraphicDDA.vcxproj -> C:\Users\DDA\Desktop\2020302131332\x64\Debug\ComputerGraphicDDA.exe
